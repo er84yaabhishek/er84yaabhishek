@@ -1,48 +1,53 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
-<h3 align="center">Backend Developer | Future DevOps & ML DevOps Engineer</h3>
+<h3 align="center">Backend Developer (Node.js) | Future DevOps Engineer</h3>
 
 ---
 
 ### 💻 About Me
-- 🔹 Backend Developer specialized in **Django & Django REST Framework**  
-- 🔹 Currently building strong foundations in backend and API development  
-- 🔹 Preparing for future transition into **DevOps & ML DevOps**  
-- 🔹 Passionate about automating systems, cloud services & scalable architectures  
+- 🔹 Backend Developer focusing on **Node.js, Express.js, and MongoDB**
+- 🔹 Background in **IT Support & Web Deployment**
+- 🔹 Building strong foundations in backend development and REST APIs
+- 🔹 Long-term goal: Transition into **DevOps & Cloud Engineering**
+- 🔹 Passionate about automation, scalable systems, and server-side technologies
 
 ---
 
-### 🔌 Current Project: IoT Smart Driving Test System
-- Raspberry Pi 4B acting as a **local private server**  
-- Main + Extender module network architecture  
-- Car hardware (brake, indicators, 4x4, etc.) → sends real-time signals  
-- Live monitoring dashboard using **Angular + Django DRF API**  
-- Custom protocols for hardware–software communication  
-
----
-
-### 🚀 Future Goals
-- Become a **DevOps Engineer**  
-- Learn Docker, Kubernetes, CI/CD, Nginx, AWS  
-- Move toward **ML DevOps** (ML model deployment, MLFlow, Kubeflow)  
-
----
-
-### 🛠️ Tech I Work With
-- **Backend:** Python, Django, DRF  
-- **Frontend:** HTML, CSS, JavaScript, Angular (basic)  
-- **IoT:** Raspberry Pi, Linux, Networking  
-- **Tools:** Git, GitHub, VS Code  
-- **Learning:** Docker, CI/CD, Cloud, MLOps  
+### 🚀 What I’m Currently Working On
+- Building **REST APIs** using Node.js & Express
+- Practicing **CRUD operations** with MongoDB & Mongoose
+- Following **MVC / modular backend structure**
+- Testing APIs using **Postman / Thunder Client**
+- Learning proper backend project flow used in companies
 
 ---
 
 ### 🌱 What I’m Learning Now
-- Advanced Django REST
-- Authentication, permissions, throttling, filtering
-- Linux commands & system operations (for DevOps)
-- Git/GitHub workflows
+- JavaScript (Node.js-focused concepts)
+- Express.js middleware & routing
+- MongoDB & Mongoose
+- API validation & error handling
+- Linux basics (commands & server fundamentals)
+- Git & GitHub workflows
+
+---
+
+### 🛠️ Tech Stack
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Web:** HTML, CSS, JavaScript (basic)
+- **Tools:** Git, GitHub, VS Code, Postman
+- **OS / Servers:** Linux (basic), Shared Hosting
+- **Learning Next:** Docker, CI/CD, Cloud (AWS)
+
+---
+
+### 🎯 Future Goals
+- Become a **DevOps Engineer**
+- Learn **Docker, CI/CD, Nginx, AWS**
+- Work on deployment, automation, and cloud infrastructure
+- Gradually move toward **DevOps & Cloud-native systems**
 
 ---
 
 ### 🤝 Connect With Me
-📧 Email: er84yaabhishek@gmail.com
+📧 Email: **er84yaabhishek@gmail.com**

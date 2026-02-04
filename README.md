@@ -1,53 +1,62 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
-<h3 align="center">Backend Developer (Node.js) | Future DevOps Engineer</h3>
+<h3 align="center">Backend-aware Engineer | Aspiring DevOps Engineer</h3>
 
 ---
 
-### 💻 About Me
-- 🔹 Backend Developer focusing on **Node.js, Express.js, and MongoDB**
-- 🔹 Background in **IT Support & Web Deployment**
-- 🔹 Building strong foundations in backend development and REST APIs
-- 🔹 Long-term goal: Transition into **DevOps & Cloud Engineering**
-- 🔹 Passionate about automation, scalable systems, and server-side technologies
+## 💻 About Me
+- 🔹 Hands-on experience with **backend project workflows**
+- 🔹 Worked with **Node.js, Django REST Framework (DRF), and Laravel (PHP)**
+- 🔹 Understand how real-world backend projects are structured and deployed
+- 🔹 Not a framework specialist, but comfortable with **project flow & server-side logic**
+- 🔹 Currently focusing on **Server Management, DevOps, and Cloud fundamentals**
+- 🔹 Strong interest in infrastructure, automation, and deployment processes
 
 ---
 
-### 🚀 What I’m Currently Working On
-- Building **REST APIs** using Node.js & Express
-- Practicing **CRUD operations** with MongoDB & Mongoose
-- Following **MVC / modular backend structure**
-- Testing APIs using **Postman / Thunder Client**
-- Learning proper backend project flow used in companies
+## 🔄 My Journey
+- Started backend development with **Django REST Framework**
+- Explored **Laravel (PHP)** and **Node.js** to understand different backend ecosystems
+- Realized my strength lies in **servers, deployment, and infrastructure**
+- Actively transitioning toward **DevOps & Cloud Engineering**
 
 ---
 
-### 🌱 What I’m Learning Now
-- JavaScript (Node.js-focused concepts)
-- Express.js middleware & routing
-- MongoDB & Mongoose
-- API validation & error handling
-- Linux basics (commands & server fundamentals)
-- Git & GitHub workflows
+## 🚀 What I’m Currently Working On
+- Running backend applications on **Linux VPS (Contabo)**
+- Practicing **Docker** (images, containers, volumes)
+- Setting up **Nginx** for web servers and reverse proxy
+- Managing ports, services, and processes on Linux
+- Using **Git & GitHub** for real project workflows
+- Understanding how backend code moves from repo → server → production
 
 ---
 
-### 🛠️ Tech Stack
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Web:** HTML, CSS, JavaScript (basic)
+## 🌱 What I’m Learning Now
+- Linux fundamentals (processes, ports, services, permissions)
+- Docker & containerization
+- Nginx basics
+- Git & GitHub (branching, push/pull, remote workflow)
+- Basics of CI/CD (learning phase)
+
+---
+
+## 🛠️ Technical Skills
+- **Backend Exposure:** Node.js, Express.js, Django REST Framework, Laravel (PHP)
+- **Databases:** MongoDB (basic understanding)
+- **DevOps / Infra:** Linux (Ubuntu), Docker (learning), Nginx (basic)
 - **Tools:** Git, GitHub, VS Code, Postman
-- **OS / Servers:** Linux (basic), Shared Hosting
-- **Learning Next:** Docker, CI/CD, Cloud (AWS)
+- **Servers:** VPS (Contabo), shared hosting experience
 
 ---
 
-### 🎯 Future Goals
-- Become a **DevOps Engineer**
-- Learn **Docker, CI/CD, Nginx, AWS**
-- Work on deployment, automation, and cloud infrastructure
-- Gradually move toward **DevOps & Cloud-native systems**
+## 🎯 Career Goal
+- Build a career as a **DevOps / Cloud Engineer**
+- Work with **Docker, CI/CD pipelines, and cloud platforms**
+- Focus on deployment, automation, and infrastructure reliability
+- Grow into **Cloud & DevOps roles** step by step
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 📧 Email: **er84yaabhishek@gmail.com**
+🐙 GitHub: You're already here 🙂

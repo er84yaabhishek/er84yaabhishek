@@ -23,15 +23,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### ✍️ About Me
 
-<p style="color: #cbd5e1;">
-Hi! I am a <strong>Full-Stack Developer</strong> working with <strong>PHP, Laravel, Vue.js, TypeScript, and MySQL</strong>. Currently, I am part of the core engineering team building and maintaining enterprise <strong>Hotel Management Systems (HMS)</strong> and <strong>Mall Management Systems (MMS)</strong>.
+<div style="font-family: 'Segoe Print', 'Bradley Hand', 'Caveat', 'Chilanka', cursive; font-size: 16px; color: #cbd5e1; line-height: 1.8;">
+
+<p>
+🖋️ <em>Hi! I am a <strong>Full-Stack Developer</strong> working with <strong>PHP, Laravel, Vue.js, TypeScript, and MySQL</strong>. Currently, I am part of the core engineering team building and maintaining enterprise <strong>Hotel Management Systems (HMS)</strong> and <strong>Mall Management Systems (MMS)</strong>.</em>
 </p>
 
-<p style="color: #94a3b8;">
-I focus on writing clean backend logic, developing business modules from database design to UI, and creating responsive single-page applications. Alongside development, I actively practice <strong>DevOps & Linux Server Administration</strong> — configuring <strong>Linux VPS servers, Docker containers, and Nginx reverse proxies</strong>.
+<p>
+🖋️ <em>I focus on writing clean backend logic, developing business modules from database design to UI, and creating responsive single-page applications. Alongside development, I actively practice <strong>DevOps & Linux Server Administration</strong> — configuring <strong>Linux VPS servers, Docker containers, and Nginx reverse proxies</strong>.</em>
 </p>
+
+</div>
 
 ```yaml
 Name: Abhishek Chaurasia
@@ -43,21 +47,33 @@ Location: Meerut, Uttar Pradesh, India
 
 ---
 
-### 🏢 Modules & Projects I Have Worked On
+### ✍️ Modules & Projects I Have Worked On
 
 #### 🏢 Mall Management System (MMS)
-* **Automated Due-Bill Payment Reminder System:** Built an automated daily cron scanner that calculates lease due dates, checks live unpaid balance (`Bill + Debit Note - Credit Note - Receipts`), stops automatically when balance hits zero, and prevents duplicate emails.
-* **Payment Reminder Console (UI):** Built an accountant dashboard displaying live overdue metrics, real-time status tracking (Auto Sent vs Manual Sent), single/bulk dispatch triggers, and complete audit history logs.
-* **Bill & Receipt Allocations:** Implemented logic for calculating tenant outstanding balances across facility bills, receipts, and debit/credit notes.
-* **Utility Meter Readings:** Developed daily meter reading entry forms and power consumption calculations.
+<div style="font-family: 'Segoe Print', 'Bradley Hand', 'Caveat', 'Chilanka', cursive; font-size: 15px; color: #cbd5e1; line-height: 1.8;">
+<ul>
+  <li>🖋️ <em><strong>Automated Due-Bill Payment Reminder System:</strong> Built an automated daily cron scanner that calculates lease due dates, checks live unpaid balance (Bill + Debit Note - Credit Note - Receipts), stops automatically when balance hits zero, and prevents duplicate emails.</em></li>
+  <li>🖋️ <em><strong>Payment Reminder Console (UI):</strong> Built an accountant dashboard displaying live overdue metrics, real-time status tracking (Auto Sent vs Manual Sent), single/bulk dispatch triggers, and complete audit history logs.</em></li>
+  <li>🖋️ <em><strong>Bill & Receipt Allocations:</strong> Implemented logic for calculating tenant outstanding balances across facility bills, receipts, and debit/credit notes.</em></li>
+  <li>🖋️ <em><strong>Utility Meter Readings:</strong> Developed daily meter reading entry forms and power consumption calculations.</em></li>
+</ul>
+</div>
 
 #### 🏨 Hotel Management System (HMS Team)
-* **Housekeeping Module:** Developed features for room cleaning status tracking, room availability updates, and housekeeping task flow.
-* **Maintenance Module:** Built issue reporting, maintenance work orders, and asset repair status tracking.
-* **Email Notifications:** Handled background queue jobs for sending automated emails with PDF attachments.
+<div style="font-family: 'Segoe Print', 'Bradley Hand', 'Caveat', 'Chilanka', cursive; font-size: 15px; color: #cbd5e1; line-height: 1.8;">
+<ul>
+  <li>🖋️ <em><strong>Housekeeping Module:</strong> Developed features for room cleaning status tracking, room availability updates, and housekeeping task flow.</em></li>
+  <li>🖋️ <em><strong>Maintenance Module:</strong> Built issue reporting, maintenance work orders, and asset repair status tracking.</em></li>
+  <li>🖋️ <em><strong>Email Notifications:</strong> Handled background queue jobs for sending automated emails with PDF attachments.</em></li>
+</ul>
+</div>
 
 #### 🌐 Full-Stack Web Applications (Vue.js + TypeScript)
-* Built **3 Single Page Applications (SPAs)** using **Vue.js 3, TypeScript, and Tailwind CSS**, connected with **Laravel REST APIs** for backend data and authentication.
+<div style="font-family: 'Segoe Print', 'Bradley Hand', 'Caveat', 'Chilanka', cursive; font-size: 15px; color: #cbd5e1; line-height: 1.8;">
+<ul>
+  <li>🖋️ <em>Built <strong>3 Single Page Applications (SPAs)</strong> using <strong>Vue.js 3, TypeScript, and Tailwind CSS</strong>, connected with <strong>Laravel REST APIs</strong> for backend data and authentication.</em></li>
+</ul>
+</div>
 
 ---
 
@@ -77,22 +93,25 @@ Location: Meerut, Uttar Pradesh, India
 
 ---
 
-### 📊 GitHub Activity & Real-time Contributions (Deep Black & Electric Blue)
+### 📊 GitHub Activity & Productivity Bar Graphs (Tokyo Night Theme)
 
 <div align="center">
 
-  <!-- Real-time Activity Heatmap Grid with Electric Blue Accent -->
-  <img src="https://ghchart.rshah.org/38bdf8/er84yaabhishek" width="100%" alt="Abhishek's Contribution Heatmap" />
+  <!-- Activity & Productive Time Bar Chart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=er84yaabhishek&theme=tokyonight" width="48%" alt="Productive Time Bar Graph" />
+  &nbsp;
+  <!-- Profile Stats & Contributed Repos Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=er84yaabhishek&theme=tokyonight" width="48%" alt="GitHub Profile Stats" />
 
 </div>
 
 ---
 
-### 🔥 Live Streak & Private Commit Tracker (Tokyo Night Dark Theme)
+### 🔥 Live GitHub Streak & Commit Activity Tracker
 
 <div align="center">
 
-  <!-- Includes Private Contributions and Real-time Flame Tracking -->
+  <!-- Live Streak Tracker in Deep Black & Electric Blue -->
   <img src="https://streak-stats.demolab.com/?user=er84yaabhishek&theme=tokyonight&hide_border=true&background=000000&stroke=2563eb&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=cbd5e1&sideLabels=94a3b8&dates=64748b" width="85%" alt="GitHub Streak Stats" />
 
 </div>
@@ -107,6 +126,6 @@ Location: Meerut, Uttar Pradesh, India
     <a href="https://github.com/er84yaabhishek"><img src="https://img.shields.io/badge/GitHub_Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <sub style="color: #94a3b8;">⚡ Building reliable backend modules in Laravel, clean SPAs in Vue.js, and deploying on Linux servers.</sub>
+  <sub style="color: #94a3b8; font-family: 'Segoe Print', 'Bradley Hand', cursive;">⚡ Building reliable backend modules in Laravel, clean SPAs in Vue.js, and deploying on Linux servers.</sub>
 
 </div>

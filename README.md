@@ -4,7 +4,7 @@
   
   <!-- Sleek Animated Neon Typewriter Terminal Banner -->
   <a href="https://github.com/er84yaabhishek">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%3C+Full--Stack+Developer+%2F%3E+(Laravel+%2B+Vue.js);%F0%9F%8F%A2+Building+Enterprise+HMS+%26+Mall+ERP+Modules;%E2%9A%A1+Vue+3+%2B+TypeScript+%2B+Tailwind+CSS+SPAs;%F0%9F%90%A7+DevOps+%26+Linux+Server+Enthusiast" alt="Abhishek Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%3C+Full--Stack+Developer+%2F%3E+(Laravel+%2B+Vue.js);%E2%9A%A1+Vue+3+%2B+TypeScript+%2B+Tailwind+CSS+SPAs;%F0%9F%90%A7+DevOps+%26+Linux+Server+Enthusiast" alt="Abhishek Typing SVG" />
   </a>
 
   <p align="center">
